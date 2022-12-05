@@ -29,7 +29,7 @@ public class Dictionary
 	{
 		try 
 		{
-			File dictionaryDefinitions = new File("C:\\Users\\james\\eclipse-workspace\\Assignment-5.1_HashMap_JMF\\src\\Untitled 3"); 
+			File dictionaryDefinitions = new File("Untitled 3.txt"); 
 			scan = new Scanner(dictionaryDefinitions);
 		}
 		catch(FileNotFoundException error) {
